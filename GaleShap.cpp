@@ -1,3 +1,11 @@
+/*
+     Nama      : Risyad pangestu
+     NPM       : 140810170003
+     Kelas     : A
+     Tanggal   : 05 Maret 2019
+     PROGRAM STABLE MATCHING 
+*/
+
 #include <iostream>
 using namespace std;
  
